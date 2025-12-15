@@ -9,8 +9,6 @@ Stoicos irridente, statua est in quo a nobis philosophia defensa et collaudata e
 maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
 Temporibus autem quibusdam et.
 
-
-<div class="tenor-gif-embed" data-postid="11272017140154948650" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/ferris-my-beloved-rust-gif-11272017140154948650">Ferris My Beloved GIF</a>from <a href="https://tenor.com/search/ferris-gifs">Ferris GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **R3pac/R3pac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
